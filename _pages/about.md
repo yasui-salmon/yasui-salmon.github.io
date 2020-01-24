@@ -17,7 +17,7 @@ Research Topics
 ======
 - Counterfactual Machine Learning
   - Off-Policy Evaluation/Learning
-- Causal Inference and Machine Learning
+- Machine Learning for Causal Inference
   - ITE Prediction
   - Uplift Modeling
 - Computational Advertising
@@ -26,6 +26,7 @@ Research Topics
 
 Recent Update
 ======
+- 2020.1.18: I wrote an introductory level Causal Inference/Econometrics text book and now it is on sale! [amazon.jp link](https://www.amazon.co.jp/%E5%8A%B9%E6%9E%9C%E6%A4%9C%E8%A8%BC%E5%85%A5%E9%96%80%E3%80%9C%E6%AD%A3%E3%81%97%E3%81%84%E6%AF%94%E8%BC%83%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E5%9B%A0%E6%9E%9C%E6%8E%A8%E8%AB%96-%E8%A8%88%E9%87%8F%E7%B5%8C%E6%B8%88%E5%AD%A6%E3%81%AE%E5%9F%BA%E7%A4%8E-%E5%AE%89%E4%BA%95-%E7%BF%94%E5%A4%AA/dp/4297111179?SubscriptionId=AKIAIHYXPGYB4QUPIASQ&tag=housecat442-22&linkCode=xm2&camp=2025&creative=165953&creativeASIN=4297111179) 
 - 2020.1.10: Our paper "A Feedback Shift Correction in Predicting Conversion Rates under Delayed Feedback" has been accepted to [The web conference 2020](https://www2020.thewebconf.org/)!
 - 2019.10.21: Our papers “Dual Learning Algorithm for Delayed Feedback in Display Advertising” and “Unbiased Pairwise Learning from Implicit Feedback” have been accepted to [CausalML Workshop at NeurIPS’19](http://tripods.cis.cornell.edu/neurips19_causalml/).
 - 2019.8.20: Our paper “Counterfactual Cross Validation” has been accepted to [REVEAL Workshop at RecSys’19](https://sites.google.com/view/reveal2019/home?authuser=0).
