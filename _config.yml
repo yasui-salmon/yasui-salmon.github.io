@@ -85,7 +85,7 @@ author:
   bio              : "I'm a research scientist in Cyberagent Inc. I'm mostly interested in Causal ML and Counterfactual Machine Learning "
   location         : "Tokyo, Japan"
   employer         :
-  pubmed           : ""
+  pubmed           :
   googlescholar    : "https://scholar.google.co.jp/citations?user=47E8oVcAAAAJ&hl=ja&oi=sra"
   email            : "yasui_shota a_t_mark cyberagent.co.jp"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/home?trk=guest_home_login"
   orcid            :
   pinterest        :
   soundcloud       :
