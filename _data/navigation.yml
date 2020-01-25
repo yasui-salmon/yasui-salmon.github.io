@@ -3,11 +3,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Talks(EN)"
     url: /talks/
 
-  - title: "Teaching"
-    url: /teaching/
+  - title: "Talks(JP)"
+    url: /talks_jp/
 
   - title: "Blog Posts"
     url: http://www.housecat442.com/
