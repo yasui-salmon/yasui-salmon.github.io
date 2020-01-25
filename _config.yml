@@ -11,7 +11,7 @@ title                    : "Shota Yasui"
 title_separator          : "-"
 name                     : &name "Shota Yasui"
 description              : &description "I am a research scientist in Cyberagent inc."
-url                      : https://yasui-salmon.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yasui-salmon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ""
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shota Yasui"
   avatar           : "yasui-250x250.jpg"
-  bio              : "I'm a research scientist in Cyberagent Inc. I'm mostly interested in Causal ML and Counterfactual Machine Learning "
+  bio              : "Research Scientist at Cyberagent, Inc."
   location         : "Tokyo, Japan"
   employer         :
   pubmed           :
