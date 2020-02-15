@@ -7,17 +7,23 @@ author_profile: true
 
 ### 2020
 
-Yasui, Shota, et al. "A Feedback Shift Correction in Predicting Conversion Rates under Delayed Feedback." arXiv preprint arXiv:2002.02068 (2020).
+Yasui, Shota, et al. "A Feedback Shift Correction in Predicting Conversion Rates under Delayed Feedback." The Web Conference (WWW), Taipei, Apr. 2020
+[arxiv](https://arxiv.org/abs/2002.02068)
 
 D Moriwaki, K Fujita, S Yasui, T Hoshino. "Fatigue-Aware Ad Creative Selection." WSDM Workshop on State-based User Modelling (SUM), Houston, USA, Feb. 2020
+[arxiv](https://arxiv.org/abs/1908.08936)
+
 
 ### 2019
 
 Narita, Yusuke, Shota Yasui, and Kohei Yata. "Efficient counterfactual learning from bandit feedback." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 33. 2019.
+[arxiv](https://arxiv.org/abs/1809.03084)
 
 Saito, Yuta, Gota Morishita, and Shota Yasui. "Dual Learning Algorithm for Delayed Feedback in Display Advertising." NeurIPS Workshop on Causal Machine Learning, Vancouver, British Columbia, Canada, Dec. 14, 2019.
+[arxiv](https://arxiv.org/abs/1910.01847)
 
 Saito, Yuta, and Shota Yasui. Counterfactual Cross-Validation." ACM RecSys Workshop on Reinforcement and Robust Estimators for Recommendation (REVEAL), Copenhagen, Denmark, Sep. 20, 2019.
+[pdf](https://usaito.github.io/files/cfcv_ws.pdf)
 
 
 ## Book
