@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shota Yasui"
 title_separator          : "-"
 name                     : &name "Shota Yasui"
-description              : &description "I am a research scientist in Cyberagent inc."
+description              : &description "I am a research scientist in CyberAgent inc."
 url                      : https://yasui-salmon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ""
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shota Yasui"
   avatar           : "yasui-250x250.jpg"
-  bio              : "Research Scientist at Cyberagent, Inc."
+  bio              : "Research Scientist at CyberAgent, Inc."
   location         : "Tokyo, Japan"
   employer         :
   pubmed           :
