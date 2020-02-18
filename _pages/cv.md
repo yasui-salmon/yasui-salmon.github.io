@@ -17,11 +17,11 @@ Education
 Work experience
 ======
 * 2013 - 2016: Economic Research Scientist
-  * Cyberagent, Inc. AILab
+  * CyberAgent, Inc. AILab
 * 2013 - 2016: Data Scientist
-  * Cyberagent, Inc. AdTech Unit
+  * CyberAgent, Inc. AdTech Unit
 * 2011 - 2013: Data Analyst
-  * Cyberagent, Inc. ADs Agency Unit
+  * CyberAgent, Inc. ADs Agency Unit
   
 Skills
 ======
