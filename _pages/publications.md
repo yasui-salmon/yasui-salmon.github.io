@@ -7,6 +7,9 @@ author_profile: true
 
 ### 2020
 
+Yuta Saito, Gota Morishita, and Shota Yasui. “Dual Learning Algorithm for Delayed Conversions’’, In Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR2020),
+[arxiv](https://arxiv.org/abs/1910.01847)
+
 Yasui, Shota, Gota Morishita, Komei Fujita, Masashi Shibata. "A Feedback Shift Correction in Predicting Conversion Rates under Delayed Feedback." The Web Conference (WWW), Taipei, Apr. 2020
 [arxiv](https://arxiv.org/abs/2002.02068)
 
