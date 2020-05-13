@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in Economics, Rikkyo University, 2011
+* B.A. in Economics, Rikkyo University, 2011
 * M.S. in Economics, Norwegian School of Economics, 2013
 
 Work experience
 ======
-* 2013 - 2016: Economic Research Scientist
+* 2016 - Present: Economic Research Scientist
   * CyberAgent, Inc. AILab
 * 2013 - 2016: Data Scientist
   * CyberAgent, Inc. AdTech Unit
