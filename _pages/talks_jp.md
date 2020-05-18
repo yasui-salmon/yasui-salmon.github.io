@@ -26,5 +26,8 @@ Domain Adaptation Neural Network を用いた広告クリック予測
 バンディットアルゴリズムと因果推論＠CFML勉強会  
 [slide link](https://speakerdeck.com/housecat442/bandeitutotoyin-guo-tui-lun)
 
-Bandit Algorithm And Causal Inference @ CA BASE CAMP 2019  
+Bandit Algorithm And Causal Inference ＠ CA BASE CAMP 2019  
 [slide link](https://www.slideshare.net/shotayasui/l-05-bandit-with-causality)
+
+国内のテック企業は若手経済学者の就職先になり得るか？＠日本経済学会 2019秋 若手・女性支援特別セッション
+[info](https://www.jeameetings.org/2019f/program2-1.html), [slide](http://kane-man.sakura.ne.jp/JWEN/pdfs/JEA2019Yasui.pdf)
