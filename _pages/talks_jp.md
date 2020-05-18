@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 ### 2020
-
+Tech企業におけるA/B test＠日本評価学会社会実験分科会 2020年研究報告会
+[slide link](https://speakerdeck.com/housecat442/b-test)
 
 ### 2019
 
