@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Talks, presentations and articles"
 permalink: /talks_jp/
 author_profile: true
 ---
@@ -8,6 +8,12 @@ author_profile: true
 ### 2020
 Tech企業におけるA/B test＠日本評価学会社会実験分科会 2020年研究報告会  
 [slide link](https://speakerdeck.com/housecat442/b-test)
+
+鼎談「因果推論やインセンティブ設計は企業AIを救えるのか？」＠ CCSE(Conference on Computer Science for Enterprise) (2019/7/13)
+[info](https://ccse.jp/2019/)
+
+寄稿「テック企業は経済学をどう使う？」 ＠ 経済セミナー 2020/4-5
+[info](https://www.nippyo.co.jp/shop/magazines/latest/3.html)
 
 ### 2019
 
