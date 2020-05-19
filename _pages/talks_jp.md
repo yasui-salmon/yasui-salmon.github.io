@@ -30,4 +30,7 @@ Bandit Algorithm And Causal Inference ＠ CA BASE CAMP 2019
 [slide link](https://www.slideshare.net/shotayasui/l-05-bandit-with-causality)
 
 国内のテック企業は若手経済学者の就職先になり得るか？＠日本経済学会 2019秋 若手・女性支援特別セッション  
-[info](https://www.jeameetings.org/2019f/program2-1.html), [slide link](http://kane-man.sakura.ne.jp/JWEN/pdfs/JEA2019Yasui.pdf)
+[info](https://www.jeameetings.org/2019f/program2-1.html), [slide link](http://kane-man.sakura.ne.jp/JWEN/pdfs/JEA2019Yasui.pdf)  
+
+### older
+[slideshare](https://www.slideshare.net/shotayasui)  
