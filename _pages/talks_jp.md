@@ -20,7 +20,7 @@ Tech企業におけるA/B test＠日本評価学会社会実験分科会 2020年
 鼎談「因果推論やインセンティブ設計は企業AIを救えるのか？」＠ CCSE(Conference on Computer Science for Enterprise) (2019/7/13)  
 [info](https://ccse.jp/2019/)
 
-Domain Adaptation Neural Network を用いた広告クリック予測  
+Domain Adaptation Neural Network を用いた広告クリック予測 ＠ 人工知能学会2019
 [info](https://www.jstage.jst.go.jp/article/pjsai/JSAI2019/0/JSAI2019_4O2J202/_article/-char/ja/)
 
 バンディットアルゴリズムと因果推論＠CFML勉強会  
