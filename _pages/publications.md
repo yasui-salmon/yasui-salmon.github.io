@@ -7,6 +7,8 @@ author_profile: true
 
 ### 2020
 
+Saito, Yuta, and Shota Yasui. “Counterfactual Cross-Validation: Stable Model Selection Procedure for Causal Inference Models“, Thirty-seventh International Conference on Machine Learning(ICML2020),
+
 Saito, Yuta, Gota Morishita, and Shota Yasui. “Dual Learning Algorithm for Delayed Conversions’’, In Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR2020),
 [arxiv](https://arxiv.org/abs/1910.01847)
 
