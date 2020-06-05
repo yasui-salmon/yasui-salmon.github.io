@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a research scientist in [CyberAgent, Inc](https://www.cyberagent.co.jp/).
+I'm a research scientist at [CyberAgent, Inc](https://www.cyberagent.co.jp/).
 
-My research interest is in the intersection of Machine Learning and Economics(not only Causal Inference!).
-I am interested in the sampling/selection bias in the real-world application. Also, I am interested in how we can combine Mechanism Design, Causal Inference, and Machine Learning.
+My research interest is the intersection of Machine Learning and Economics(not only Causal Inference!).
+Especially, I am interested in the sampling/selection bias in the real-world application. Also, I am interested in how we can combine Mechanism Design, Causal Inference, and Machine Learning.
 
 Research Topics
 ======
