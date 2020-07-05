@@ -20,7 +20,7 @@ author_profile: true
 ### Arizona, Oregon, Florida, Massachusetts
 ### タバコの税金が1988年以降50セント以上上がった州のリスト
 ### Alaska, Hawaii, Maryland, Michigan, New Jersey, New York, Washington|（3刷で対応3/30）|
-|p55| $$ \begin{equation} \label{OVB_mail_equality} \beta_1 - \alpha_1 = \gamma_1 \beta_1 \end{equation} $$ | $$ \begin{equation} \label{OVB_mail_equality}  \alpha_1 - \beta_1 = \gamma_1 \beta_4 \end{equation} $$ | |
+|p55| $ \label{OVB_mail_equality} \beta_1 - \alpha_1 = \gamma_1 \beta_1 \end{equation} $ | $ \label{OVB_mail_equality}  \alpha_1 - \beta_1 = \gamma_1 \beta_4 $ | |
 |p57|ここで確認したいものは$\beta_1 - \alpha_1$と、$\gamma_1 \beta_4$の値です。|ここで確認したいものは$\alpha_1 - \beta_1$と、$\gamma_1 \beta_4$の値です。||
 |p57|3つ目の要素を掛けます。$\beta_1 - \alpha_1$は|3つ目の要素を掛けます。$\alpha_1 - \beta_1$は||
 
