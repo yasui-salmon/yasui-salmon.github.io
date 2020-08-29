@@ -6,8 +6,12 @@ author_profile: true
 ---
 
 ### 2020
+効果検証入門から見直す「データサイエンス」＠データサイエンス協会セミナー  
+[slide](https://speakerdeck.com/housecat442/xiao-guo-jian-zheng-ru-men-karajian-zhi-su-detasaiensu)  
+[info](https://techplay.jp/event/789307?utm_source=event_789307&utm_medium=social&utm_campaign=feed&utm_content=tw136322647)
+
 Tech企業におけるA/B test＠日本評価学会社会実験分科会 2020年研究報告会  
-[slide link](https://speakerdeck.com/housecat442/b-test)
+[slide](https://speakerdeck.com/housecat442/b-test)
 
 寄稿「テック企業は経済学をどう使う？」 ＠ 経済セミナー 2020/4-5
 [info](https://www.nippyo.co.jp/shop/magazines/latest/3.html)
