@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### 2020
-Kato, Masahiro, Masahiro Uehara, and Shota Yasui "Off-Policy Evaluation and Learning for External Validity under a Covariate Shift", NeurIPS 2020
+Kato, Masahiro, Masahiro Uehara, and Shota Yasui "Off-Policy Evaluation and Learning for External Validity under a Covariate Shift", NeurIPS 2020  
 [arxiv](https://arxiv.org/abs/2002.11642)  
 
 Saito, Yuta, and Shota Yasui. “Counterfactual Cross-Validation: Stable Model Selection Procedure for Causal Inference Models“, Thirty-seventh International Conference on Machine Learning(ICML2020),  
