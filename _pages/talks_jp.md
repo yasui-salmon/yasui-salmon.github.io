@@ -7,8 +7,7 @@ author_profile: true
 
 ### 2020
 効果検証入門から見直す「データサイエンス」＠データサイエンス協会セミナー  
-[slide](https://speakerdeck.com/housecat442/xiao-guo-jian-zheng-ru-men-karajian-zhi-su-detasaiensu)  
-[info](https://techplay.jp/event/789307?utm_source=event_789307&utm_medium=social&utm_campaign=feed&utm_content=tw136322647)
+[video](https://youtu.be/3u2NgamEhRc), [slide](https://speakerdeck.com/housecat442/xiao-guo-jian-zheng-ru-men-karajian-zhi-su-detasaiensu), [info](https://techplay.jp/event/789307?utm_source=event_789307&utm_medium=social&utm_campaign=feed&utm_content=tw136322647)
 
 Tech企業におけるA/B test＠日本評価学会社会実験分科会 2020年研究報告会  
 [slide](https://speakerdeck.com/housecat442/b-test)
