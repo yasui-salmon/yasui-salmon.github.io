@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 ### 2020
-Kato, Masahiro, Masatoshi Uehara, and Shota Yasui "Off-Policy Evaluation and Learning for External Validity under a Covariate Shift", NeurIPS 2020  
+Kato, Masahiro, Masatoshi Uehara, and Shota Yasui "Off-Policy Evaluation and Learning for External Validity under a Covariate Shift", NeurIPS 2020
 [arxiv](https://arxiv.org/abs/2002.11642)  
 
-Saito, Yuta, and Shota Yasui. “Counterfactual Cross-Validation: Stable Model Selection Procedure for Causal Inference Models“, Thirty-seventh International Conference on Machine Learning(ICML2020),  
+Saito, Yuta, and Shota Yasui. “Counterfactual Cross-Validation: Stable Model Selection Procedure for Causal Inference Models“, Thirty-seventh International Conference on Machine Learning(ICML2020),
 [arxiv](https://arxiv.org/abs/1909.05299)
 
 Saito, Yuta, Gota Morishita, and Shota Yasui. “Dual Learning Algorithm for Delayed Conversions’’, In Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR2020),
