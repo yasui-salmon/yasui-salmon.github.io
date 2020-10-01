@@ -5,7 +5,7 @@ permalink: /talks_jp/
 author_profile: true
 ---
 
-### 2020
+## 2020
 **効果検証入門から見直す「データサイエンス」＠データサイエンス協会セミナー**  
 \[[video](https://youtu.be/3u2NgamEhRc)\], \[[slide](https://speakerdeck.com/housecat442/xiao-guo-jian-zheng-ru-men-karajian-zhi-su-detasaiensu)\], \[[info](https://techplay.jp/event/789307?utm_source=event_789307&utm_medium=social&utm_campaign=feed&utm_content=tw136322647)\]
 
@@ -15,7 +15,7 @@ author_profile: true
 **寄稿「テック企業は経済学をどう使う？」 ＠ 経済セミナー 2020/4-5**  
 \[[info](https://www.nippyo.co.jp/shop/magazines/latest/3.html)\]
 
-### 2019
+## 2019
 
 **機械学習を用いた自動的な意思決定と反実仮想＠CCSE 2019**  
 \[[slide](https://speakerdeck.com/housecat442/ji-jie-xue-xi-woyong-itazi-dong-de-nayi-si-jue-ding-tofan-shi-jia-xiang)\]
@@ -35,5 +35,5 @@ author_profile: true
 **国内のテック企業は若手経済学者の就職先になり得るか？＠日本経済学会 2019秋 若手・女性支援特別セッション**  
 \[[info](https://www.jeameetings.org/2019f/program2-1.html)\], \[[slide link](http://kane-man.sakura.ne.jp/JWEN/pdfs/JEA2019Yasui.pdf)\]  
 
-### older
+## older
 [slideshare](https://www.slideshare.net/shotayasui)  
