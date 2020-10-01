@@ -8,27 +8,27 @@ author_profile: true
 ### 2020
 **Off-Policy Evaluation and Learning for External Validity under a Covariate Shift**  
 Kato, Masahiro, Masatoshi Uehara, and Shota Yasui  
-NeurIPS 2020  
+Neural Information Processing Systems(NeurIPS) 2020  
 \[[arxiv](https://arxiv.org/abs/2002.11642)\]  
 
 **Counterfactual Cross-Validation: Stable Model Selection Procedure for Causal Inference Models**  
 Saito, Yuta, and Shota Yasui  
-Thirty-seventh International Conference on Machine Learning(ICML2020),  
+International Conference on Machine Learning(ICML) 2020,  
 \[[arxiv](https://arxiv.org/abs/1909.05299)\]  
 
 **Dual Learning Algorithm for Delayed Conversions**  
 Saito, Yuta, Gota Morishita, and Shota Yasui  
-In Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR2020),  
+International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) 2020  
 \[[arxiv](https://arxiv.org/abs/1910.01847)\]  
 
 **A Feedback Shift Correction in Predicting Conversion Rates under Delayed Feedback**  
 Yasui, Shota, Gota Morishita, Komei Fujita, Masashi Shibata  
-The Web Conference (WWW), Taipei, Apr. 2020  
+The Web Conference (WWW) 2020  
 \[[arxiv](https://arxiv.org/abs/2002.02068)\]  
 
 **Fatigue-Aware Ad Creative Selection**  
 D Moriwaki, K Fujita, S Yasui, T Hoshino  
-WSDM Workshop on State-based User Modelling (SUM), Houston, USA, Feb. 2020  
+WSDM Workshop on State-based User Modelling (SUM) 2020  
 \[[arxiv](https://arxiv.org/abs/1908.08936)\]  
 
 
@@ -36,17 +36,17 @@ WSDM Workshop on State-based User Modelling (SUM), Houston, USA, Feb. 2020
 
 **Efficient counterfactual learning from bandit feedback**  
 Narita, Yusuke, Shota Yasui, and Kohei Yata  
-Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 33. 2019.  
+AAAI Conference on Artificial Intelligence(AAAI) 2019  
 \[[arxiv](https://arxiv.org/abs/1809.03084)\]  
 
 **Dual Learning Algorithm for Delayed Feedback in Display Advertising**  
 Saito, Yuta, Gota Morishita, and Shota Yasui  
-NeurIPS Workshop on Causal Machine Learning, Vancouver, British Columbia, Canada, Dec. 14, 2019.  
+NeurIPS Workshop on Causal Machine Learning 2019  
 \[[arxiv](https://arxiv.org/abs/1910.01847)\]  
 
 **Counterfactual Cross-Validation**  
 Saito, Yuta, and Shota Yasui  
-ACM RecSys Workshop on Reinforcement and Robust Estimators for Recommendation (REVEAL), Copenhagen, Denmark, Sep. 20, 2019.  
+RecSys Workshop on Reinforcement and Robust Estimators for Recommendation (REVEAL) 2019  
 
 
 ## Book
