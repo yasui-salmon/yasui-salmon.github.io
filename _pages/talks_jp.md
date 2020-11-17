@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 ## 2020
+**事業の役に立つ「因果推論」＠データサイエンティスト協会シンポジウム**  
+\[[video]()\], \[[slide](https://speakerdeck.com/housecat442/shi-ye-falseyi-nili-tu-yin-guo-tui-lun)\], \[[info](http://www.datascientist.or.jp/symp/2020/)\]
+
 **効果検証入門から見直す「データサイエンス」＠データサイエンス協会セミナー**  
 \[[video](https://youtu.be/3u2NgamEhRc)\], \[[slide](https://speakerdeck.com/housecat442/xiao-guo-jian-zheng-ru-men-karajian-zhi-su-detasaiensu)\], \[[info](https://techplay.jp/event/789307?utm_source=event_789307&utm_medium=social&utm_campaign=feed&utm_content=tw136322647)\]
 
