@@ -19,7 +19,5 @@ author_profile: true
 |p55| $ \beta_1 - \alpha_1 = \gamma_1 \beta_1 $ | $  \alpha_1 - \beta_1 = \gamma_1 \beta_4 $ | |
 |p57|ここで確認したいものは$\beta_1 - \alpha_1$と、$\gamma_1 \beta_4$の値です。|ここで確認したいものは$\alpha_1 - \beta_1$と、$\gamma_1 \beta_4$の値です。||
 |p57|3つ目の要素を掛けます。$\beta_1 - \alpha_1$は|3つ目の要素を掛けます。$\alpha_1 - \beta_1$は||
-
-
-
-
+|p69|介入の所得に対する効果が大きくなる|介入の所得に対する効果が過小評価される||
+|p95|(ch3_lalonde.Rの抜粋)|(ch3_pscore.Rの抜粋)||
