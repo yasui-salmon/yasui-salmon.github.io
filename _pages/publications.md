@@ -54,3 +54,8 @@ RecSys Workshop on Reinforcement and Robust Estimators for Recommendation (REVEA
 安井翔太　著，株式会社ホクソエム　監修.  
 技術評論社, 2020-01-18  
 \[[Amazon-JP](https://www.amazon.co.jp/%E5%8A%B9%E6%9E%9C%E6%A4%9C%E8%A8%BC%E5%85%A5%E9%96%80%E3%80%9C%E6%AD%A3%E3%81%97%E3%81%84%E6%AF%94%E8%BC%83%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E5%9B%A0%E6%9E%9C%E6%8E%A8%E8%AB%96-%E8%A8%88%E9%87%8F%E7%B5%8C%E6%B8%88%E5%AD%A6%E3%81%AE%E5%9F%BA%E7%A4%8E-%E5%AE%89%E4%BA%95-%E7%BF%94%E5%A4%AA/dp/4297111179?SubscriptionId=AKIAIHYXPGYB4QUPIASQ&tag=housecat442-22&linkCode=xm2&camp=2025&creative=165953&creativeASIN=4297111179)\], \[[正誤表](/cibook/)\]
+
+**施策デザインのための機械学習入門〜データ分析技術のビジネス活用における正しい考え方**  
+齋藤優太，安井翔太　著，株式会社ホクソエム　監修.  
+技術評論社, 2021-08-04  
+\[[Amazon-JP](https://www.amazon.co.jp/dp/4297122243?tag=housecat442-22&linkCode=ogi&th=1&psc=1)\]

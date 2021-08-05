@@ -26,7 +26,7 @@ Research Topics
 
 Recent Update
 ======
-- 2021.07.07: Our paper “Designing Online Advertisements via Bandit and Reinforcement Learning” has been accepted to RecSys’21.
+- 2021.07.07: Our paper “Debiased Off-Policy Evaluation for Recommendation Systems” has been accepted to RecSys’21.
 - 2020.09.26: Our paper “Off-Policy Evaluation and Learning for External Validity under a Covariate Shift” has been accepted to NeurIPS’20.
 - 2020.06.01: Our paper “Counterfactual Cross-Validation: Stable Model Selection Procedure for Causal Inference Models” has been accepted to ICML’20.
 - 2020.04.23: Our paper “ Dual Learning Algorithm for Delayed Conversions” has been accepted to SIGIR’20.
