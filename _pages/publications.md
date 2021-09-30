@@ -5,6 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
+### 2021
+**The Adaptive Doubly Robust Estimator for Policy Evaluation in Adaptive Experiments and a Paradox Concerning Logging Policy**  
+Masahiro Kato, Kenichiro McAlinn and Shota Yasui
+Neural Information Processing Systems(NeurIPS) 2021
+\[[arxiv](https://arxiv.org/abs/2010.03792?context=econ.EM)\]  
+
+**Debiased Off-Policy Evaluation for Recommendation Systems**  
+Yusuke Narita, Shota Yasui and Kohei Yata
+ACM Conference on Recommender Systems(RecSys) 2021  
+\[[arxiv](https://arxiv.org/abs/2002.08536)\]  
+
 ### 2020
 **Off-Policy Evaluation and Learning for External Validity under a Covariate Shift**  
 Kato, Masahiro, Masatoshi Uehara, and Shota Yasui  
