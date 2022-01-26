@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+### 2022
+**Learning Causal Relationships from Conditional Moment Restrictions by Importance Weighting**  
+Masahiro Kato, Masaaki Imaizumi, Kenichiro McAlinn, Shota Yasui, Haruo Kakehi  
+International Conference on Learning Representations(ICLR) 2022  
+\[[arxiv](https://arxiv.org/abs/2108.01312)\]  
+
 ### 2021
 **The Adaptive Doubly Robust Estimator for Policy Evaluation in Adaptive Experiments and a Paradox Concerning Logging Policy**  
 Masahiro Kato, Kenichiro McAlinn and Shota Yasui  
