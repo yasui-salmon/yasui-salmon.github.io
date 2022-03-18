@@ -11,6 +11,10 @@ Masahiro Kato, Masaaki Imaizumi, Kenichiro McAlinn, Shota Yasui, Haruo Kakehi
 International Conference on Learning Representations(ICLR) 2022  
 \[[arxiv](https://arxiv.org/abs/2108.01312)\]  
 
+**Evaluating the impact of COVID-19 on ex-vessel prices using time-series analysis**  
+Keita Abe, Gakushi Ishimura, Shinya Baba, Shota Yasui, Kosuke Nakamura  
+Fisheries Science, 1-12  
+
 ### 2021
 **The Adaptive Doubly Robust Estimator for Policy Evaluation in Adaptive Experiments and a Paradox Concerning Logging Policy**  
 Masahiro Kato, Kenichiro McAlinn and Shota Yasui  
