@@ -9,7 +9,7 @@ author_profile: true
 
 
 **Delayed Feedback Modeling with a Time Window Assumption**  
-Shota Yasui, Masahiro Kato
+Shota Yasui, Masahiro Kato  
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining(KDD) 2022  
 \[[arxiv](https://arxiv.org/abs/2009.13092)\]  
 
