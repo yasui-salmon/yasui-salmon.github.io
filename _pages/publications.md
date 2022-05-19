@@ -6,6 +6,13 @@ author_profile: true
 ---
 
 ### 2022
+
+
+**Delayed Feedback Modeling with a Time Window Assumption**  
+Shota Yasui, Masahiro Kato
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining(KDD) 2022  
+\[[arxiv](https://arxiv.org/abs/2009.13092)\]  
+
 **Learning Causal Relationships from Conditional Moment Restrictions by Importance Weighting**  
 Masahiro Kato, Masaaki Imaizumi, Kenichiro McAlinn, Shota Yasui, Haruo Kakehi  
 International Conference on Learning Representations(ICLR) 2022  

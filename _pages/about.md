@@ -26,6 +26,7 @@ Research Topics
 
 Recent Update
 ======
+- 2022.05.19: Our paper “Delayed Feedback Modeling with a Time Window Assumption” has been accepted to KDD'22!
 - 2021.07.07: Our paper “The Adaptive Doubly Robust Estimator for Policy Evaluation in Adaptive Experiments and a Paradox Concerning Logging Policy” has been accepted to NeurIPS’21.
 - 2021.07.07: Our paper “Debiased Off-Policy Evaluation for Recommendation Systems” has been accepted to RecSys’21.
 - 2020.09.26: Our paper “Off-Policy Evaluation and Learning for External Validity under a Covariate Shift” has been accepted to NeurIPS’20.
