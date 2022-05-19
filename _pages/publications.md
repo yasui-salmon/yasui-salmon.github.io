@@ -21,6 +21,7 @@ International Conference on Learning Representations(ICLR) 2022
 **Evaluating the impact of COVID-19 on ex-vessel prices using time-series analysis**  
 Keita Abe, Gakushi Ishimura, Shinya Baba, Shota Yasui, Kosuke Nakamura  
 Fisheries Science, 1-12  
+\[[URL](https://link.springer.com/article/10.1007/s12562-021-01574-x)\]  
 
 ### 2021
 **The Adaptive Doubly Robust Estimator for Policy Evaluation in Adaptive Experiments and a Paradox Concerning Logging Policy**  
