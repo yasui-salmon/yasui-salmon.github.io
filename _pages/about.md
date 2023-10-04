@@ -26,6 +26,8 @@ Research Topics
 
 Recent Update
 ======
+- 2023.09.29: Our paper "Distributional Treatment Effects of Content Promotion: Empirical Evidence from an ABEMA Field Experiment" has been accepted to [CODE@MIT'23](https://ide.mit.edu/events/2023-conference-on-digital-experimentation-mit-codemit/)!
+- 2023.05.09: We translated ["Causal Inference: The Mixtape"](https://mixtape.scunning.com) into Japanese! [amazon.jp link](https://amzn.asia/d/0lcOMj9)
 - 2022.05.19: Our paper “Delayed Feedback Modeling with a Time Window Assumption” has been accepted to KDD'22!
 - 2021.07.07: Our paper “The Adaptive Doubly Robust Estimator for Policy Evaluation in Adaptive Experiments and a Paradox Concerning Logging Policy” has been accepted to NeurIPS’21.
 - 2021.07.07: Our paper “Debiased Off-Policy Evaluation for Recommendation Systems” has been accepted to RecSys’21.
