@@ -5,6 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+### 2024
+
+
+**Estimating Distributional Treatment Effects in Randomized Experiments: Machine Learning for Variance Reduction**  
+Undral Byambadalai, Tatsushi Oka, Shota Yasui  
+International Conference on Machine Learning(ICML) 2024  
+\[[paper](https://openreview.net/forum?id=RDofzHLuX4)\]  
+
+
 ### 2022
 
 
