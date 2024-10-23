@@ -20,12 +20,15 @@ Research Topics
 - Machine Learning for Causal Inference
   - ITE Prediction
   - Uplift Modeling
+- Causal Inference
+  - Distributional Treatment Effect
 - Computational Advertising
   - Delayed Feedback
   - Advertising Auction
 
 Recent Update
 ======
+- 2024.09.22: Our paper "LLM-based Recommendation in Content Promotion: Empirical Evidence from an ABEMA Field Experiment" has been accepted to [CODE@MIT'24](https://ide.mit.edu/events/code24/)!
 - 2024.05.02: Our paper "Estimating Distributional Treatment Effects in Randomized Experiments:
 Machine Learning for Variance Reduction" has been accepted to [ICML'24](https://icml.cc/virtual/2024/poster/34058)
 - 2023.09.29: Our paper "Distributional Treatment Effects of Content Promotion: Empirical Evidence from an ABEMA Field Experiment" has been accepted to [CODE@MIT'23](https://ide.mit.edu/events/2023-conference-on-digital-experimentation-mit-codemit/)!
