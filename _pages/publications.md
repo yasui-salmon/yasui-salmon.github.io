@@ -5,6 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
+### 2025
+
+**Regression Adjustment for Estimating Distributional Treatment Effects in Randomized Controlled Trials**  
+Tatsushi Oka, Shota Yasui, Yuta Hayakawa, Undral Byambadalai
+Econometric Reviews, forthcoming  
+\[[working paper link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4899404)\]
+
+
 
 ### 2024
 

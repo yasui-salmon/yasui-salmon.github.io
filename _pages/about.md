@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a research scientist at [CyberAgent, Inc](https://www.cyberagent.co.jp/).
+I'm Principal Data Scientist/Senior Researcher at [CyberAgent, Inc](https://www.cyberagent.co.jp/).
 
-My research interest is the intersection of Machine Learning and Economics(not only Causal Inference!).
-Especially, I am interested in the sampling/selection bias in the real-world application. Also, I am interested in how we can combine Mechanism Design, Causal Inference, and Machine Learning.
+My research interest is the intersection of Machine Learning and Economics.
+Especially, I am interested in the sampling/selection bias in the real-world application and Distributional Treatment Effect. Also, I am interested in how we can combine Causal Inference, and Machine Learning.
 
 Research Topics
 ======
@@ -28,6 +28,7 @@ Research Topics
 
 Recent Update
 ======
+- 2025.02.20: Our paper "Regression Adjustment for Estimating Distributional Treatment Effects in Randomized Controlled Trials" has been accepted to Econometric Reviews! [working paper link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4899404)
 - 2024.09.22: Our paper "LLM-based Recommendation in Content Promotion: Empirical Evidence from an ABEMA Field Experiment" has been accepted to [CODE@MIT'24](https://ide.mit.edu/events/code24/)!
 - 2024.05.02: Our paper "Estimating Distributional Treatment Effects in Randomized Experiments:
 Machine Learning for Variance Reduction" has been accepted to [ICML'24](https://icml.cc/virtual/2024/poster/34058)
