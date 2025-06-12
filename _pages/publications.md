@@ -7,6 +7,12 @@ author_profile: true
 
 ### 2025
 
+**On Efficient Estimation of Distributional Treatment Effects under Covariate-Adaptive Randomization**  
+Undral Byambadalai, Tomu Hirata, Tatsushi Oka, Shota Yasui  
+International Conference on Machine Learning(ICML) 2025  
+\[[arxiv](https://arxiv.org/abs/2506.05945)\]  
+
+
 **Regression Adjustment for Estimating Distributional Treatment Effects in Randomized Controlled Trials**  
 Tatsushi Oka, Shota Yasui, Yuta Hayakawa, Undral Byambadalai
 Econometric Reviews, forthcoming  
