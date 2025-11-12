@@ -28,6 +28,7 @@ Research Topics
 
 Recent Update
 ======
+- 2025.09.19: Our paper "Beyond the Average: Distributional Causal Inference under Imperfect Compliance" has been accepted to [NeurIPS'25](https://neurips.cc/)
 - 2025.05.01: Our paper "On Efficient Estimation of Distributional Treatment Effects under Covariate-Adaptive Randomization" has been accepted to [ICML'25](https://icml.cc/)
 - 2025.02.20: Our paper "Regression Adjustment for Estimating Distributional Treatment Effects in Randomized Controlled Trials" has been accepted to Econometric Reviews! [working paper link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4899404)
 - 2024.09.22: Our paper "LLM-based Recommendation in Content Promotion: Empirical Evidence from an ABEMA Field Experiment" has been accepted to [CODE@MIT'24](https://ide.mit.edu/events/code24/)!

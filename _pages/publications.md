@@ -7,6 +7,13 @@ author_profile: true
 
 ### 2025
 
+
+**Beyond the Average: Distributional Causal Inference under Imperfect Compliance
+
+Undral Byambadalai, Tomu Hirata, Tatsushi Oka, Shota Yasui  
+Neural Information Processing Systems(NeurIPS) 2025  
+\[[arxiv](https://arxiv.org/abs/2509.15594)\]  
+
 **On Efficient Estimation of Distributional Treatment Effects under Covariate-Adaptive Randomization**  
 Undral Byambadalai, Tomu Hirata, Tatsushi Oka, Shota Yasui  
 International Conference on Machine Learning(ICML) 2025  
@@ -15,8 +22,8 @@ International Conference on Machine Learning(ICML) 2025
 
 **Regression Adjustment for Estimating Distributional Treatment Effects in Randomized Controlled Trials**  
 Tatsushi Oka, Shota Yasui, Yuta Hayakawa, Undral Byambadalai
-Econometric Reviews, forthcoming  
-\[[working paper link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4899404)\]
+Econometric Reviews
+\[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4899404)\]
 
 
 
