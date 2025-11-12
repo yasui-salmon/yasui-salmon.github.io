@@ -8,7 +8,7 @@ author_profile: true
 ### 2025
 
 
-**Beyond the Average: Distributional Causal Inference under Imperfect Compliance
+**Beyond the Average: Distributional Causal Inference under Imperfect Compliance**  
 
 Undral Byambadalai, Tomu Hirata, Tatsushi Oka, Shota Yasui  
 Neural Information Processing Systems(NeurIPS) 2025  
