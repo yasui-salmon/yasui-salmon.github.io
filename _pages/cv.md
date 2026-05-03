@@ -17,16 +17,15 @@ Education
 Work experience
 ======
 CyberAgent, Inc. — Tokyo, Japan  
-[Principal Data Scientist](https://www.cyberagent.co.jp/en/corporate/directors/detail/yasuishota.html)  
-
-Apr 2022 – Present  
+**[Principal Data Scientist](https://www.cyberagent.co.jp/en/corporate/directors/detail/yasuishota.html)  
+Apr 2022 – Present**  
 - Defined and institutionalized the role of data scientists, building training programs that enabled business units to incorporate causal inference into core decision-making processes  
 
 - Built and led data science teams in business units where data science practices were not yet established, transforming decision-making from intuition-driven to experiment- and data-driven approaches  
 
 
-Decision Division Leader / Economic Research Scientist  
-2016 - Present  
+**Decision Division Leader / Economic Research Scientist  
+2016 - Present**  
 - Founded and led the AILab, establishing an R&D function dedicated to improving organizational decision-making through AI, economics, and causal inference
 
 - Built and scaled a 15+ PhD-level organization across 3 specialized teams, integrating machine learning,  reinforcement learning, economics, and causal inference into a unified decision intelligence capability  
@@ -38,8 +37,8 @@ Decision Division Leader / Economic Research Scientist
 - Launched and led cross-functional research initiatives with business data science teams, translating operational challenges into deployable analytical solutions  
 
 
-Data Scientist  
-2013 – 2016  
+**Data Scientist  
+2013 – 2016**  
 
 - Introduced machine learning into ad tech platforms (DSP, SSP, DMP), including model development and performance evaluation in production environments  
 
@@ -48,8 +47,8 @@ Data Scientist
 - Mentored junior data scientists, fostering both technical expertise and the ability to connect data analysis with business impact  
 
 
-Data Analyst  
-2011 – 2013  
+**Data Analyst  
+2011 – 2013**  
 
 - Analyzed client marketing data within an advertising agency setting, informing budget allocation and creative optimization decisions  
 
