@@ -167,7 +167,8 @@ RecSys Workshop on Reinforcement and Robust Estimators for Recommendation (REVEA
 **効果検証入門～正しい比較のための因果推論／計量経済学の基礎**  
 安井翔太　著，株式会社ホクソエム　監修.  
 技術評論社, 2020-01-18  
-\[[Amazon-JP](https://www.amazon.co.jp/%E5%8A%B9%E6%9E%9C%E6%A4%9C%E8%A8%BC%E5%85%A5%E9%96%80%E3%80%9C%E6%AD%A3%E3%81%97%E3%81%84%E6%AF%94%E8%BC%83%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E5%9B%A0%E6%9E%9C%E6%8E%A8%E8%AB%96-%E8%A8%88%E9%87%8F%E7%B5%8C%E6%B8%88%E5%AD%A6%E3%81%AE%E5%9F%BA%E7%A4%8E-%E5%AE%89%E4%BA%95-%E7%BF%94%E5%A4%AA/dp/4297111179?SubscriptionId=AKIAIHYXPGYB4QUPIASQ&tag=housecat442-22&linkCode=xm2&camp=2025&creative=165953&creativeASIN=4297111179)\]
+\[[Amazon-JP](https://www.amazon.co.jp/%E5%8A%B9%E6%9E%9C%E6%A4%9C%E8%A8%BC%E5%85%A5%E9%96%80%E3%80%9C%E6%AD%A3%E3%81%97%E3%81%84%E6%AF%94%E8%BC%83%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E5%9B%A0%E6%9E%9C%E6%8E%A8%E8%AB%96-%E8%A8%88%E9%87%8F%E7%B5%8C%E6%B8%88%E5%AD%A6%E3%81%AE%E5%9F%BA%E7%A4%8E-%E5%AE%89%E4%BA%95-%E7%BF%94%E5%A4%AA/dp/4297111179?SubscriptionId=AKIAIHYXPGYB4QUPIASQ&tag=housecat442-22&linkCode=xm2&camp=2025&creative=165953&creativeASIN=4297111179)\]  
+
 
 **施策デザインのための機械学習入門〜データ分析技術のビジネス活用における正しい考え方**  
 齋藤優太，安井翔太　著，株式会社ホクソエム　監修.  
@@ -175,9 +176,22 @@ RecSys Workshop on Reinforcement and Robust Estimators for Recommendation (REVEA
 \[[Amazon-JP](https://www.amazon.co.jp/dp/4297122243?tag=housecat442-22&linkCode=ogi&th=1&psc=1)\]
 
 
+**Pythonで学ぶ効果検証入門**  
+安井 翔太 監修、伊藤 寛武 著、金子 雄祐 著
+オーム社, 2024-05-21  
+\[[Amazon-JP](https://www.amazon.co.jp/dp/4297122243?tag=housecat442-22&linkCode=ogi&th=1&psc=1)\]
 
 
+**因果推論入門〜ミックステープ：基礎から現代的アプローチまで**  
+Scott Cunningham (著), 加藤 真大 (翻訳), 河中 祥吾 (翻訳), 白木 紀行 (翻訳), 冨田 燿志 (翻訳), 早川 裕太 (翻訳), 兵頭 亮介 (翻訳), 藤田 光明 (翻訳), 邊土名 朝飛 (翻訳), 森脇 大輔 (翻訳), 安井 翔太 (翻訳)  
+技術評論社, 2023-05-09  
+\[[Amazon-JP](https://amzn.asia/d/0buzMtsB)\]  
 
+
+**「原因」と「結果」を武器にする思考　エビデンスベースで成果を上げる効果検証**  
+安井 翔太 (著), 伊藤 寛武 (著), 金子 雄祐 (著)
+日経BP 日本経済新聞出版, 2026-06-19  
+\[[Amazon-JP](https://amzn.asia/d/0aA5vykq)\]  
 
 
 
